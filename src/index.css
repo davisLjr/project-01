@@ -1,0 +1,87 @@
+@font-face {
+font-family: "ProximaNova";
+src: local("ProximaNova"),
+    url("./fonts/ProximaNova/proxima_nova_black-webfont.woff") format("woff"),
+    url("./fonts/ProximaNova/proxima_nova_black-webfont.woff2") format("wof2");
+font-weight: 900;
+}
+
+@font-face {
+font-family: "ProximaNova";
+src: local("ProximaNova"),
+    url("./fonts/ProximaNova/proxima_nova_bold-webfont.woff") format("woff"),
+    url("./fonts/ProximaNova/proxima_nova_bold-webfont.woff2") format("wof2");
+font-weight: 700;
+}
+
+@font-face {
+font-family: "ProximaNova";
+src: local("ProximaNova"),
+    url("./fonts/ProximaNova/proxima_nova_extrabold-webfont.woff") format("woff"),
+    url("./fonts/ProximaNova/proxima_nova_extrabold-webfont.woff2") format("wof2");
+font-weight: 800;
+}
+
+@font-face {
+font-family: "ProximaNova";
+src: local("ProximaNova"),
+    url("./fonts/ProximaNova/proxima_nova_thin-webfont.woff") format("woff"),
+    url("./fonts/ProximaNova/proxima_nova_thin-webfont.woff2") format("wof2");
+font-weight: 200;
+}
+
+@font-face {
+font-family: "ProximaNova";
+src: local("ProximaNova"),
+    url("./fonts/ProximaNova/proximanova-regular-webfont.woff") format("woff"),
+    url("./fonts/ProximaNova/proximanova-regular-webfont.woff2") format("wof2");
+font-weight: 400;
+}
+
+@font-face {
+font-family: "ProximaNovaAlt";
+src: local("ProximaNovaAlt"),
+    url("./fonts/ProximaNovaAlt/proxima_nova_alt_bold-webfont.woff") format("woff"),
+    url("./fonts/ProximaNovaAlt/proxima_nova_alt_bold-webfont.woff2") format("wof2");
+font-weight: 700;
+}
+    
+@font-face {
+font-family: "ProximaNovaAlt";
+src: local("ProximaNovaAlt"),
+    url("./fonts/ProximaNovaAlt/proxima_nova_alt_light-webfont.woff") format("woff"),
+    url("./fonts/ProximaNovaAlt/proxima_nova_alt_light-webfont.woff2") format("wof2");
+font-weight: 300;
+}
+
+@font-face {
+font-family: "ProximaNovaAlt";
+src: local("ProximaNovaAlt"),
+    url("./fonts/ProximaNovaAlt/proxima_nova_alt_thin-webfont.woff") format("woff"),
+    url("./fonts/ProximaNovaAlt/proxima_nova_alt_thin-webfont.woff2") format("wof2");
+font-weight: 200;
+}
+
+@font-face {
+font-family: "SharpSans";
+src: local("SharpSans"),
+    url("./fonts/SharpSans/SharpSansNo1-Bold.woff") format("woff"),
+    url("./fonts/SharpSans/SharpSansNo1-Bold.woff2") format("wof2");
+font-weight: 700;
+}
+
+@font-face {
+font-family: "SharpSans";
+src: local("SharpSans"),
+    url("./fonts/SharpSans/SharpSansNo1Medium-Regular.woff") format("woff"),
+    url("./fonts/SharpSans/SharpSansNo1Medium-Regular.woff2") format("wof2");
+font-weight: 500;
+}
+
+@font-face {
+font-family: "Shsn";
+src: local("Shsn"),
+    url("./fonts/Shsn/shsn-webfont.woff") format("woff"),
+    url("./fonts/Shsn/shsn-webfont.woff2") format("wof2");
+font-weight: 400;
+}
